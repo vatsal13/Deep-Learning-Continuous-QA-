@@ -3,7 +3,7 @@
 
 Please see the requirements file for the installing dependencies.
 
-A) Steps to run the trained continuous Answering Module on an image set. 
+A) Steps to run the trained Continuous Question Answering Module on an image set. 
 	
 	1) Place images in the images folder. (It already has few sample images.)
 	2) Run start.py
