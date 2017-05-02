@@ -4,6 +4,7 @@
 Please see the requirements file for the installing dependencies.
 
 A) Steps to run the trained continuous Answering Module on an image set. 
+	
 	1) Place images in the images folder. (It already has few sample images.)
 	2) Run start.py
 	3) Results get stored in directory answers/
@@ -15,6 +16,7 @@ A) Steps to run the trained continuous Answering Module on an image set.
 
 
 B) Steps to just run the VQA module.
+	
 	1) cd VQA
 	2) python demo.py -image_file_name <path_to_file> -question <"Question to be asked ?">
 
@@ -22,6 +24,7 @@ B) Steps to just run the VQA module.
 
 
 C) Steps to just run VQG module.
+	
 	1) cd VQG
 	2) th eval.lua -model ../model/model_id.t7 -image_folder ../images -sample_max 1 -beam_size 10
 
@@ -29,6 +32,7 @@ C) Steps to just run VQG module.
 
 
 D) To retrain the VQG module.
+        
 	1) cd VQG
 	2) Download OpenEnded_mscoco_train2017_questions.json
 	   http://visualqa.org/data/mscoco/vqa/v2_Questions_Train_mscoco.zip
