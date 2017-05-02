@@ -33,7 +33,7 @@ C) Steps to just run VQG module.
 
 D) To retrain the VQG module.
         
-	1) cd VQG
+	1) cd neuraltalk2
 	2) Download OpenEnded_mscoco_train2017_questions.json
 	   http://visualqa.org/data/mscoco/vqa/v2_Questions_Train_mscoco.zip
 
