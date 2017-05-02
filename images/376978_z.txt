@@ -1,0 +1,69 @@
+
+
+
+Loading image features ...
+
+
+
+Loading image features ...
+
+
+
+Loading image features ...
+
+
+
+Loading image features ...
+
+
+
+Loading image features ...
+
+
+
+Loading image features ...
+Loading question features ...
+Loading VQA Model ...
+
+
+
+Predicting result ...
+98.09 %  white
+000.4 %  black
+000.4 %  blue
+00.38 %  silver
+00.23 %  gray
+
+
+
+Loading image features ...
+Loading question features ...
+
+
+
+Loading image features ...
+
+
+
+Loading image features ...
+Loading question features ...
+Loading VQA Model ...
+
+
+
+Predicting result ...
+98.09 %  white
+000.4 %  black
+000.4 %  blue
+00.38 %  silver
+00.23 %  gray
+
+
+
+Loading image features ...
+Loading question features ...
+Loading VQA Model ...
+
+
+
+Predicting result ...

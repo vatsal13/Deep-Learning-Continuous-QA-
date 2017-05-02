@@ -1,0 +1,45 @@
+what color is the snow ?
+
+98.09 %  white
+000.4 %  black
+000.4 %  blue
+00.38 %  silver
+00.23 %  gray
+
+
+what season is it ?
+
+99.94 %  winter
+00.02 %  summer
+00.02 %  fall
+00.01 %  spring
+000.0 %  christmas
+
+
+what is the person doing ?
+
+60.33 %  snowboarding
+39.13 %  skiing
+00.16 %  snowboard
+00.08 %  sitting
+00.07 %  flying kite
+
+
+is it cold ?
+
+82.51 %  yes
+17.49 %  no
+000.0 %  head
+000.0 %  woman
+000.0 %  left
+
+
+what is the man doing ?
+
+59.89 %  snowboarding
+39.36 %  skiing
+00.19 %  snowboard
+00.13 %  sitting
+000.1 %  flying kite
+
+

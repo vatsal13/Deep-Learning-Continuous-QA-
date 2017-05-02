@@ -1,0 +1,45 @@
+what color is the horse ?
+
+041.7 %  white
+41.26 %  brown
+05.72 %  tan
+03.09 %  black
+002.5 %  white and brown
+
+
+how many horses are there ?
+
+82.02 %  2
+06.71 %  3
+05.77 %  1
+03.15 %  4
+000.7 %  5
+
+
+how many horses ?
+
+77.43 %  2
+13.11 %  1
+04.78 %  3
+01.91 %  4
+01.59 %  0
+
+
+what is the horse doing ?
+
+40.57 %  laying down
+017.4 %  eating
+07.93 %  resting
+07.46 %  sitting
+007.1 %  walking
+
+
+what color are the horses ?
+
+43.88 %  brown
+29.27 %  white
+05.83 %  brown and white
+05.56 %  tan
+05.42 %  black and white
+
+

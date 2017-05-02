@@ -1,0 +1,45 @@
+what color is the train ?
+
+47.69 %  yellow
+27.11 %  blue
+11.24 %  silver
+04.22 %  green
+004.0 %  black
+
+
+is the train moving ?
+
+61.13 %  yes
+38.87 %  no
+000.0 %  safety
+000.0 %  front
+000.0 %  background
+
+
+is this a train station ?
+
+60.26 %  yes
+39.73 %  no
+000.0 %  road
+000.0 %  safety
+000.0 %  fall
+
+
+is this a train station ?
+
+60.26 %  yes
+39.73 %  no
+000.0 %  road
+000.0 %  safety
+000.0 %  fall
+
+
+is this train moving ?
+
+60.64 %  yes
+39.36 %  no
+000.0 %  safety
+000.0 %  road
+000.0 %  cold
+
+
