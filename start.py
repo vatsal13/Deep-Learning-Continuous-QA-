@@ -1,8 +1,28 @@
+
+
 import subprocess
 import os
 import sys
+import os
+import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument("-imf", "--image_folder", help="Folder containing the images")
+parser.add_argument("-beam", "--beam_size", help="Beam search size for sampling questions from RNN/LSTM")
+args = parser.parse_args()
+
+image_folder = "../images/" if args.image_folder is None else args.image_folder
+beam_size = 10 if args.beam_size is None else args.beam_size
+
+print image_folder
+print beam_size
+
+os.system("cd questions ; rm questions.txt")
+os.system("cd images ; rm images.txt")
+os.system("cd neuraltalk2 ; th eval.lua -model ../model/model_id.t7 -image_folder " + image_folder +" -sample_max 1 -beam_size "+ str(beam_size))
+
 filenames = []
-app_path = "../images/"
+app_path = image_folder
 with open("./images/images.txt","r") as read:
     line = read.readlines()
     filenames = line
