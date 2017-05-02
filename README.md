@@ -17,7 +17,7 @@ A) Steps to run the trained Continuous Question Answering Module on an image set
 
 B) Steps to just run the VQA module.
 	
-	1) cd VQA
+	1) cd VQA_Demo
 	2) python demo.py -image_file_name <path_to_file> -question <"Question to be asked ?">
 
 	[Estimated time for 1 image is 5 sec.]
@@ -25,7 +25,7 @@ B) Steps to just run the VQA module.
 
 C) Steps to just run VQG module.
 	
-	1) cd VQG
+	1) cd neuraltalk2
 	2) th eval.lua -model ../model/model_id.t7 -image_folder ../images -sample_max 1 -beam_size 10
 
 	[Estimated time for 1 image is 30-35 sec.]
