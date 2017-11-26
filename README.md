@@ -1,5 +1,4 @@
 # Image Understanding via Continuous Questioning and Answering
-# Vatsal Mahajan (vmahaja1@asu.edu), and Saurabh Singh (ssing139@asu.edu), ASU
 
 Please see the requirements file for the installing dependencies.
 
